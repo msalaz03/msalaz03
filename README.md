@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **My Projects**
+- 💬 Ask me about **Robotic Hand**
 
 - 📫 How to reach me **msalaz03@uoguelph.ca**
 
