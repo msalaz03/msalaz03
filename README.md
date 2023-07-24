@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
-<h3 align="center">A Computer Engineering at the University of Guelph</h3>
+<h3 align="center">A Computer Engineering Student at the University of Guelph</h3>
 
 - 🌱 I’m currently learning **Python**
 
