@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
 <h3 align="center">A Computer Engineering at the University of Guelph</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Machine Learning with Python**
 
-- 💬 Ask me about **My Projects**
+- 💬 Ask me about **Robotic Hand**
 
 - 📫 How to reach me **msalaz03@uoguelph.ca**
 
