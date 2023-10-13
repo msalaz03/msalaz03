@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning with Python**
 
-- 💬 Ask me about **Robotic Hand**
+- 💬 Ask me about the **Robotic Hand**
 
 - 📫 How to reach me **msalaz03@uoguelph.ca**
 
