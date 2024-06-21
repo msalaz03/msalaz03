@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ROS**
 
-- 💬 Ask me about **My Projects**
+- 💬 My personal interests include **embedded systems and robotics**
 
 - 📫 How to reach me **msalaz03@uoguelph.ca**
 
