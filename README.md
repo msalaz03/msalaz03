@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
 <h3 align="center">A Computer Engineering Student at the University of Guelph</h3>
 
-- 🌱 I’m currently learning **SLAM**
+- 🌱 I’m currently learning **Firmware with STM32 Microcontrollers**
 
 - 💬 My personal interests include **embedded systems and robotics**
 
